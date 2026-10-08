@@ -36,4 +36,4 @@ string connectionString = "Server=TU_SERVIDOR;Database=TU_BASE_DATOS;Trusted_Con
 ```
 
 ##  Autor
-* **Nixar Mercado** - *Desarrollo Demostración para clases* - [TuUsuarioGitHub](https://github.com)
+* **Nixar Mercado** - *Desarrollo Demostración para clases* - [nixarmercado]([https://github.com](https://github.com/nixarmercado))
